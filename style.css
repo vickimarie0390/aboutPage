@@ -1,0 +1,42 @@
+h1 {
+    font-size: 30px;
+    font-weight: 500;
+    font-family: fantasy;
+    text-align: center;
+}
+img {
+    width: 150px;
+    height: 150px;
+    
+   
+}
+ul {
+    font-family: fantasy;
+    font-weight: 200px;
+    font-size: 14px;
+}
+a:link {
+    color: rgb(155, 27, 155);
+}
+a:visited {
+    color: rgb(72, 177, 86);
+}
+a:hover {
+    color: rgb(20, 22, 53);
+}
+
+body {
+    background-color: rgb(195, 223, 236);
+}
+h2 {
+    font-size: 22px;
+    color: rgb(97, 73, 141);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 35%;
+}
